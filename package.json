@@ -1,15 +1,16 @@
 {
-  "name": "gmetric",
-  "version": "0.2.2",
+  "name": "gmetric-mod",
+  "version": "0.2.4",
   "description": "Ganglia gmetric submission for node.js",
   "author": "Jeff Buchbinder",
   "maintainers": [
     "jbuchbinder",
-    "seryl <joshtoft@gmail.com>"
+    "seryl <joshtoft@gmail.com>",
+    "meneal"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jbuchbinder/node-gmetric.git"
+    "url": "git://github.com/meneal/node-gmetric.git"
   },
   "dependencies": {
   },
