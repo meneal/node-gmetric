@@ -1,5 +1,3 @@
-# node-gmetric [![build status](https://secure.travis-ci.org/jbuchbinder/node-gmetric.png?branch=master)](http://travis-ci.org/jbuchbinder/node-gmetric)
-
 ## meneal's modified node gmetric
 
 jbuchbinder's code did not suit my needs since post connections it does not close the sockets it opens for communication.  It may well be that he had some specific way in mind to close out the connections, but that wasn't obvious from his readme, or the documentation in the code.  
@@ -7,7 +5,7 @@ jbuchbinder's code did not suit my needs since post connections it does not clos
 This mod closes the connections after each socket sends it's packets.  Any time there is a new call it simply opens up another socket.  Two are used for each send to ganglia, one for meta and one for data.
 
 * Module Name : gmetric
-* Website : https://github.com/jbuchbinder/node-gmetric
+* Website : https://github.com/meneal/node-gmetric
 
 Gmetric packet submission for node.js
 
