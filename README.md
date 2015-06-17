@@ -4,7 +4,7 @@ jbuchbinder's code did not suit my needs since post connections it does not clos
 
 This mod closes the connections after each socket sends it's packets.  Any time there is a new call it simply opens up another socket.  Two are used for each send to ganglia, one for meta and one for data.
 
-* Module Name : gmetric
+* Module Name : gmetric-mod
 * Website : https://github.com/meneal/node-gmetric
 
 Gmetric packet submission for node.js
