@@ -1,4 +1,4 @@
-//# node-gmetric [![build status](https://secure.travis-ci.org/jbuchbinder/node-gmetric.png?branch=master)](//http://travis-ci.org/jbuchbinder/node-gmetric)
+# node-gmetric [![build status](https://secure.travis-ci.org/jbuchbinder/node-gmetric.png?branch=master)](http://travis-ci.org/jbuchbinder/node-gmetric)
 
 ## meneal's modified node gmetric
 
